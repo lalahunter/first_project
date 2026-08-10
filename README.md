@@ -72,7 +72,6 @@ uv pip install -r requirements.txt
 
 # Conclussions
 ...
-None
-
+asd
 # Next steps
 ...
