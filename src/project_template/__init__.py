@@ -1,2 +1,2 @@
 def hello() -> str:
-    return "Hello from project!"
+    return "Hello from project-template!"
