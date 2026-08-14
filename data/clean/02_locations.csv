@@ -1,0 +1,626 @@
+city,state,country,location_id
+Skykomish,Washington,US,1
+Hancock,New York,US,2
+West Farmington,Ohio,US,3
+Blue Ridge,Georgia,US,4
+Grandview,Texas,US,5
+Puerto Escondido,,Mexico,6
+Saco,Maine,US,7
+Grand Étang,,Canada,8
+Mexico City,,Mexico,9
+Sandy Valley,Nevada,US,10
+Huntsville,,Canada,11
+Nelson,,Canada,12
+Joshua Tree,California,US,13
+Vero Beach,Florida,US,14
+Bolton,Vermont,US,15
+Ucluelet,,Canada,16
+Essex,,Canada,17
+Bacalar,,Mexico,18
+Travelers Rest,South Carolina,US,19
+Del Norte County,California,US,20
+San Carlos,,Costa Rica,21
+Frazeysburg,Ohio,US,22
+Rodney,,Canada,23
+La Habana,,Cuba,24
+Terlingua,Texas,US,25
+Port Angeles,Washington,US,26
+Fredericksburg,Texas,US,27
+Harcourt,,Canada,28
+Medellín,,Colombia,29
+Bryson City,North Carolina,US,30
+Retiro,,Colombia,31
+Bluefields,,Jamaica,32
+Bavaro,,Dominican Republic,33
+Marion,North Carolina,US,34
+Sandgate,Vermont,US,35
+Puerto Vallarta,,Mexico,36
+Sanbornton,New Hampshire,US,37
+Moss Beach,California,US,38
+Wheatley,,Canada,39
+Topanga,California,US,40
+Cajicá,,Colombia,41
+Center Conway,New Hampshire,US,42
+Renous,,Canada,43
+Huntsville,Missouri,US,44
+Castleton,,Canada,45
+Bodega Bay,California,US,46
+Rocky View County,,Canada,47
+Low,,Canada,48
+Key Largo,Florida,US,49
+Malibu,California,US,50
+Petit-Tracadie,,Canada,51
+Jarratt,Virginia,US,52
+El Peñol,,Colombia,53
+North Vancouver,,Canada,54
+Shirley,,Canada,55
+Miami,Florida,US,56
+Kansas City,Missouri,US,57
+Lac-Supérieur,,Canada,58
+Saint-Damien,,Canada,59
+Tulum,,Mexico,60
+Durham,,Canada,61
+Island Park,Idaho,US,62
+Arrowbear Lake,California,US,63
+Borinquen,,Puerto Rico,64
+Wasaga Beach,,Canada,65
+Blockhouse,,Canada,66
+Peachland,,Canada,67
+Shaftsbury,Vermont,US,68
+Windermere,,Canada,69
+Myrtle Beach,South Carolina,US,70
+Laguna Beach,California,US,71
+Playa del Carmen,,Mexico,72
+Maynooth,,Canada,73
+Cabo Rojo,,Puerto Rico,74
+Canning,,Canada,75
+Luquillo,,Puerto Rico,76
+Lahaina,Hawaii,US,77
+Hollywood,Florida,US,78
+Naples,New York,US,79
+Nemaiah Valley,,Canada,80
+The Blue Mountains,,Canada,81
+Komoka,,Canada,82
+Punta Cana,,Dominican Republic,83
+Hilbert,Wisconsin,US,84
+Whittier,North Carolina,US,85
+Puntarenas Province,,Costa Rica,86
+Monteverde,,Costa Rica,87
+Quesada,,Costa Rica,88
+Key West,Florida,US,89
+Zapotal,,Costa Rica,90
+Destin,Florida,US,91
+Playa Hermosa,,Costa Rica,92
+Bellingham,Washington,US,93
+San Juan,,Puerto Rico,94
+Gold Bar,Washington,US,95
+Orlando,Florida,US,96
+Marathon,Florida,US,97
+Uvero Alto - Bavaro - Punta Cana,,Dominican Republic,98
+Mazamitla,,Mexico,99
+Wardensville,West Virginia,US,100
+Stuart,Florida,US,101
+Miami Beach,Florida,US,102
+Weaverville,North Carolina,US,103
+Half Moon Bay,California,US,104
+Hiawassee,Georgia,US,105
+San José,,Costa Rica,106
+Rosarito,,Mexico,107
+Atlantic City,New Jersey,US,108
+Santa Marta,,Colombia,109
+Cabo San Lucas,,Mexico,110
+Kawartha Lakes,,Canada,111
+Cholula,,Mexico,112
+Jacó,,Costa Rica,113
+Río Grande,,Puerto Rico,114
+Mazatlán,,Mexico,115
+Cancún,,Mexico,116
+Real Montecassino,,Mexico,117
+Cuauhtémoc,,Mexico,118
+Kaunakakai,Hawaii,US,119
+Atenas,,Costa Rica,120
+Jauca,,Puerto Rico,121
+Puerto Viejo de Talamanca,,Costa Rica,122
+Acapulco,,Mexico,123
+Airville,Pennsylvania,US,124
+Pinilla,,Costa Rica,125
+Siler City,North Carolina,US,126
+Horning's Mills,,Canada,127
+Ashford,Washington,US,128
+Newport Beach,California,US,129
+Guarne,,Colombia,130
+Fennville,Michigan,US,131
+Tamanique,,El Salvador,132
+Las Galeras,,Dominican Republic,133
+Gilmour,,Canada,134
+Ocean City,Maryland,US,135
+New York,New York,US,136
+Islamorada,Florida,US,137
+Gordonville,Pennsylvania,US,138
+Quintana Roo,,Mexico,139
+Georgetown,Maine,US,140
+Marina del Rey,California,US,141
+Tepoztlán,,Mexico,142
+Oceanside,California,US,143
+Los Angeles,California,US,144
+Cape Coral,Florida,US,145
+Saint Marys,,Canada,146
+Mill Village,,Canada,147
+Mineral Bluff,Georgia,US,148
+Sundridge,,Canada,149
+Galveston,Texas,US,150
+Woodford,Vermont,US,151
+Bowen Island,,Canada,152
+Hopatcong,New Jersey,US,153
+Naples,Florida,US,154
+Reaboro,,Canada,155
+San José del Cabo,,Mexico,156
+Tremont,Maine,US,157
+Manzanita,Oregon,US,158
+Hamilton,,Canada,159
+Willemstad,,Curaçao,160
+East End,,U.S. Virgin Islands,161
+Guanacaste Province,,Costa Rica,162
+Balderson,,Canada,163
+Aptos,California,US,164
+Naalehu,Hawaii,US,165
+Honolulu,Hawaii,US,166
+Sackville,,Canada,167
+Carolina,,Puerto Rico,168
+Santa Teresa Beach,,Costa Rica,169
+Matapalo,,Costa Rica,170
+Panama City Beach,Florida,US,171
+Yachats,Oregon,US,172
+Avalon,California,US,173
+Sorrento,,Canada,174
+Kailua-Kona,Hawaii,US,175
+Kissimmee,Florida,US,176
+Morongo Valley,California,US,177
+Kihei,Hawaii,US,178
+Zona Hotelera,,Mexico,179
+Isla Mujeres,,Mexico,180
+Oceanside,Oregon,US,181
+Wilmington,New York,US,182
+Sandane,,Norway,183
+Jurków,,Poland,184
+Şarköy,,Turkey,185
+Hvanneyri,,Iceland,186
+Krabčice,,Czechia,187
+Fiumicino,,Italy,188
+Güejar Sierra,,Spain,189
+Teo,,Spain,190
+Hol,,Norway,191
+Nyköping S,,Sweden,192
+Jickovice,,Czechia,193
+Hornedo,,Spain,194
+Viana do Castelo,,Portugal,195
+Gombola,,Italy,196
+Darżkowo,,Poland,197
+Kenilworth,,UK,198
+Dassel,,Germany,199
+Montregard,,France,200
+Saint-Ouen,,France,201
+Gällstad,,Sweden,202
+Trasquera,,Italy,203
+Hessisch Lichtenau,,Germany,204
+Oxfordshire,,UK,205
+Draperstown,,UK,206
+Calpe,,Spain,207
+Saint-Nabord,,France,208
+Biarritz,,France,209
+Ostuni,,Italy,210
+Girvan,,UK,211
+Monmouth,,UK,212
+Miazzina,,Italy,213
+Poltimore,,UK,214
+Pollina,,Italy,215
+Χράνοι,,Greece,216
+Rodos,,Greece,217
+Midmar,,UK,218
+Agello,,Italy,219
+Adainville,,France,220
+Vay,,France,221
+Aljezur,,Portugal,222
+Rattray,,UK,223
+Muratpaşa,,Turkey,224
+Bronwydd Arms,,UK,225
+Behren-Lübchin,,Germany,226
+Les Haudères,,Switzerland,227
+Étival,,France,228
+Rémalard,,France,229
+Montepulciano,,Italy,230
+Nowy Targ,,Poland,231
+Hollacombe,,UK,232
+London,,UK,233
+Megalochori,,Greece,234
+Catsfield,,UK,235
+La Zubia,,Spain,236
+Afa,,France,237
+Ericeira,,Portugal,238
+Rouffignac-de-Sigoulès,,France,239
+Esche,,Germany,240
+Kremasti,,Greece,241
+Torreglia,,Italy,242
+Mesaria,,Greece,243
+Nutley,,UK,244
+Winningen,,Germany,245
+Baião,,Portugal,246
+Highland Council,,UK,247
+Totana,,Spain,248
+Fountana,,Greece,249
+Filipstad N,,Sweden,250
+Borgo Valsugana,,Italy,251
+Llandissilio,,UK,252
+Mayen,,Germany,253
+Akrotiri,,Greece,254
+Trefeinon,,UK,255
+Cynwyd,,UK,256
+Athina,,Greece,257
+Alberobello,,Italy,258
+Båstad V,,Sweden,259
+Coreggia,,Italy,260
+Martina Franca,,Italy,261
+Montale Rangone,Modena,Italy,262
+Berlin,,Germany,263
+Rome,,Italy,264
+Santa Lucia,,Italy,265
+Reclesne,,France,266
+Asciano,,Italy,267
+Pennabilli,,Italy,268
+Nes På Hedmark,,Norway,269
+Torsåker,,Sweden,270
+Saint-Mandé,,France,271
+Walpole,,UK,272
+East Farndon,,UK,273
+Rüthen,,Germany,274
+Plaka,,Greece,275
+Saint-Lary-Soulan,,France,276
+Borgo Valbelluna,,Italy,277
+Kassel,,Germany,278
+Barcelona,,Spain,279
+Sabóia,,Portugal,280
+Mont-le-Vernois,,France,281
+Dirlaught,,Ireland,282
+Witzenhausen,,Germany,283
+Planos,,Greece,284
+Kadıköy,,Turkey,285
+Nicosia,,Italy,286
+Izmir,,Turkey,287
+Perranwell Station,,UK,288
+Areti,,Greece,289
+Wapnica,,Poland,290
+Millbrook,,UK,291
+La Marsa,,Tunisia,292
+Jonstorp,,Sweden,293
+Positano,,Italy,294
+Benalauría,,Spain,295
+Muldenhammer,,Germany,296
+Audierne,,France,297
+Penzance,,UK,298
+La Atalaya,,Spain,299
+Vouzela,,Portugal,300
+Thessaloniki,,Greece,301
+Torbalı,,Turkey,302
+Fethiye,,Turkey,303
+Finestrat,,Spain,304
+Idrac respailles,,France,305
+Kotor,,Montenegro,306
+Chalkida,,Greece,307
+Skopelos,,Greece,308
+Scottish Borders,,UK,309
+Baošići,,Montenegro,310
+Atouguia da Baleia,,Portugal,311
+Bad Sankt Leonhard im Lavanttal,,Austria,312
+Punta Prima,,Spain,313
+Verson,,France,314
+Vaiano,,Italy,315
+Boscastle,,UK,316
+County Wicklow,,Ireland,317
+Las Negras,,Spain,318
+Serrazone,,Italy,319
+Ploemeur,,France,320
+Bridge of Earn,,UK,321
+Rif,,Iceland,322
+County Durham,,UK,323
+Wien,,Austria,324
+Mons,,France,325
+Roviano,,Italy,326
+Jumilhac-le-Grand,,France,327
+Rosenthal-Bielatal,,Germany,328
+Wolfegg,,Germany,329
+Atzeneta del Maestrat,,Spain,330
+Taktikoupoli,,Greece,331
+Le Relecq-Kerhuon,,France,332
+Covilhã,,Portugal,333
+Abram,,Greece,334
+Halsham,,UK,335
+Rocchetta Nervina,,Italy,336
+Cernobbio,,Italy,337
+Wettringen,,Germany,338
+Otívar,,Spain,339
+Castelmezzano,,Italy,340
+La Canourgue,,France,341
+Dinami,,Italy,342
+Crossdoney,,Ireland,343
+Abiansemal,,Indonesia,344
+Balian Beach,,Indonesia,345
+Ubud,,Indonesia,346
+Tampaksiring,,Indonesia,347
+Balamban,,Philippines,348
+El Nido,,Philippines,349
+Chom Phon,,Thailand,350
+Kecamatan Ubud,,Indonesia,351
+Tabanan,,Indonesia,352
+Singaraja,,Indonesia,353
+Phuket,Thailand,Thailand,354
+Nusa Ceningan,,Indonesia,355
+Kecamatan Kuta Utara,,Indonesia,356
+Mueang Chiang Mai District,,Thailand,357
+Payangan,,Indonesia,358
+Ubud,Kabupaten Gianyar,Indonesia,359
+เกาะพงัน,,Thailand,360
+Tegallalang,,Indonesia,361
+Ko Samui,,Thailand,362
+Kamala,,Thailand,363
+Mabini,,Philippines,364
+Cavinti,,Philippines,365
+Kecamatan Denpasar Selatan,,Indonesia,366
+Bangkok,,Thailand,367
+Muang Pattaya,,Thailand,368
+Kuta,,Indonesia,369
+Ko Lanta District,,Thailand,370
+Thành phố Hội An,,Vietnam,371
+清迈,,Thailand,372
+Sidemen,,Indonesia,373
+Tambon Patong,,Thailand,374
+Khet Watthana,,Thailand,375
+Koh Yao Noi,,Thailand,376
+Ao nang,,Thailand,377
+Langkawi,,Malaysia,378
+Koh Lanta Island,,Thailand,379
+Rayong,,Thailand,380
+Lamai Beach,,Thailand,381
+Nusapenida,,Indonesia,382
+Klungkung,,Indonesia,383
+Nusa Lembongan,,Indonesia,384
+Kabupaten Buleleng,,Indonesia,385
+Bacnotan,La Union,Philippines,386
+Lian,,Philippines,387
+Tambon Ratsada,,Thailand,388
+Bingin Beach,,Indonesia,389
+Seminyak,,Indonesia,390
+Tambon Bo Put,,Thailand,391
+Penebel,,Indonesia,392
+Kecamatan Tampaksiring,,Indonesia,393
+Kecamatan Kuta Selatan,,Indonesia,394
+Nasugbu,,Philippines,395
+South Kuta,,Indonesia,396
+Pecatu,,Indonesia,397
+Banjar,,Indonesia,398
+Johor Bahru,,Malaysia,399
+Concepcion,,Philippines,400
+Kecamatan Seririt,,Indonesia,401
+Amadeo,,Philippines,402
+Kecamatan Sukasada,,Indonesia,403
+Candidasa,,Indonesia,404
+Kecamatan Selat,,Indonesia,405
+Kathu,,Thailand,406
+Kuala Lumpur,,Malaysia,407
+Kecamatan Banjar,,Indonesia,408
+Federal Territory of Kuala Lumpur,,Malaysia,409
+Tagaytay,,Philippines,410
+UbudUbud,Gianyar,Indonesia,411
+phường 6,,Vietnam,412
+Melaka,,Malaysia,413
+頭城鎮,,Taiwan,414
+Kathu District,,Thailand,415
+Selat,,Indonesia,416
+Tambon Maret,,Thailand,417
+Phuket,,Thailand,418
+Kintamani,,Indonesia,419
+Nusa Penida,,Indonesia,420
+Kabupaten Badung,,Indonesia,421
+Karangasem,,Indonesia,422
+PHUKET,,Thailand,423
+Na Chom Thian,,Thailand,424
+Hua Hin,,Thailand,425
+Pasig,,Philippines,426
+General Luna,,Philippines,427
+George Town,,Malaysia,428
+Santander,,Philippines,429
+Bali,,Indonesia,430
+Gili Trawangan,,Indonesia,431
+Kabupaten Tabanan,,Indonesia,432
+Port Dickson,,Malaysia,433
+ตำบล บ้านใต้,,Thailand,434
+Kecamatan Senen,,Indonesia,435
+Lembang,,Indonesia,436
+Cebu City,,Philippines,437
+Naiyang Beach,,Thailand,438
+Quận 4,,Vietnam,439
+Ko Samui District,,Thailand,440
+Bayan Lepas,,Malaysia,441
+Tambon Na Chom Thian,,Thailand,442
+Antipolo,,Philippines,443
+San Juan,,Philippines,444
+Botolan,,Philippines,445
+Manila,,Philippines,446
+Thalang,,Thailand,447
+Phu Quoc,,Vietnam,448
+Tambon Ko Pha-ngan,,Thailand,449
+Tambon Kamala,,Thailand,450
+Pasay,,Philippines,451
+Seririt,,Indonesia,452
+Lazi,,Philippines,453
+Tambon Rawai,,Thailand,454
+Chiang Mai,,Thailand,455
+Nha Trang,,Vietnam,456
+Gianyar,,Indonesia,457
+Tambon Thep Krasatti,,Thailand,458
+Tambon Hua Hin,,Thailand,459
+Tebet,,Indonesia,460
+Pemuteran,,Indonesia,461
+Cyberjaya,,Malaysia,462
+Jelutong,,Malaysia,463
+Khet Din Daeng,,Thailand,464
+Patong,,Thailand,465
+Uluwatu,,Indonesia,466
+Shah Alam,,Malaysia,467
+Khlong Ton Sai,Khlong San,Thailand,468
+Millersburg,,,469
+Crane Hill,,,470
+Telluride,,,471
+West Farmington,,,472
+Crosby,,,473
+Hancock,,,474
+Sandy Valley,,,475
+Fredericksburg,,,476
+New York,,,477
+Fredonia,,,478
+Dahlonega,,,479
+Travelers Rest,,,480
+Fernwood,,,481
+Packwood,,,482
+Nashville,,,483
+Bryson City,,,484
+Branson,,,485
+Livingston,,,486
+Taos,,,487
+Shippensburg,,,488
+Scottsdale,,,489
+Ronan,,,490
+Fairlee,,,491
+Rising Fawn,,,492
+Boone,,,493
+Urbana,,,494
+Martin City,,,495
+Austin,,,496
+Avalon,,,497
+Moab,,,498
+Destin,,,499
+Crivitz,,,500
+Lakeside,,,501
+Half Moon Bay,,,502
+Henderson,,,503
+Orange Beach,,,504
+Clyde,,,505
+Wilmington,,,506
+Cape Coral,,,507
+Klamath Falls,,,508
+Daytona Beach,,,509
+St. Augustine,,,510
+New Smyrna Beach,,,511
+Eustis,,,512
+White Pigeon,,,513
+Cripple Creek,,,514
+Petersburg,,,515
+Twentynine Palms,,,516
+McKinney,,,517
+El Prado,,,518
+Sevierville,,,519
+Fort Myers,,,520
+Los Angeles,,,521
+Summertown,,,522
+Florissant,,,523
+Escondido,,,524
+Kissimmee,,,525
+Gold Bar,,,526
+Watsonville,,,527
+Ellington,,,528
+Orlando,,,529
+Lebec,,,530
+Newry,,,531
+Greer,,,532
+Pine Ridge,,,533
+Groton,,,534
+Ellijay,,,535
+Blue Ridge,,,536
+Hillsboro,,,537
+Cortez,,,538
+Wapwallopen,,,539
+Crozet,,,540
+Leicester,,,541
+Robbinsville,,,542
+Lancing,,,543
+Las Vegas,,,544
+Miramar,,,545
+Santa Monica,,,546
+Phoenix,,,547
+Desert Hot Springs,,,548
+Sedona,,,549
+Fernandina Beach,,,550
+Panama City Beach,,,551
+Miami,,,552
+Chicago,,,553
+DeFuniak Springs,,,554
+Hilton Head Island,,,555
+Forks,,,556
+Fort Walton Beach,,,557
+Sarasota,,,558
+Kanab,,,559
+Carlisle,,,560
+Pensacola,,,561
+Richmond,,,562
+Trinidad,,,563
+Houston,,,564
+Fountain Green,,,565
+Islamorada,,,566
+Michigan City,,,567
+Mary Esther,,,568
+Greensboro,,,569
+Hallandale Beach,,,570
+Galveston,,,571
+Carrollton,,,572
+Wofford Heights,,,573
+Mackinaw City,,,574
+Cave Creek,,,575
+Venice,,,576
+Weaverville,,,577
+Petrolia,,,578
+Dallas,,,579
+Holden Beach,,,580
+Rockaway Beach,,,581
+Siesta Key,,,582
+Laguna Beach,,,583
+Tucson,,,584
+Fort Lauderdale,,,585
+Terlingua,,,586
+Naples,,,587
+Brooklyn,,,588
+Huntington Beach,,,589
+Colorado Springs,,,590
+Hartsel,,,591
+Fairfield,,,592
+North Bay Village,,,593
+Dana Point,,,594
+Miami Beach,,,595
+Saint Petersburg,,,596
+Smithville,,,597
+San Diego,,,598
+Rolling Hills,,,599
+Tampa,,,600
+Cocoa Beach,,,601
+Waxhaw,,,602
+Washington,,,603
+Tybee Island,,,604
+Netarts,,,605
+The Sea Ranch,,,606
+Eastham,,,607
+Gulfport,,,608
+Sunny Isles Beach,,,609
+Portland,,,610
+Pompano Beach,,,611
+Hollywood,,,612
+Palm Coast,,,613
+Lehigh Acres,,,614
+Carmel-by-the-Sea,,,615
+Point Reyes Station,,,616
+Mount Pleasant,,,617
+Treasure Island,,,618
+Anaheim,,,619
+Pensacola Beach,,,620
+Long Beach,,,621
+Longboat Key,,,622
+Lake Worth,,,623
+San Antonio,,,624
+Englewood,,,625
